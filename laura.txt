@@ -1,3 +1,4 @@
 Hola, me llamo Laura.
-Esta es la practica de GIT
-Linea agragada por Andres 	
+Esta es la practica de GIT 	
+Modificación que genera conflicto 	
+>>>>>>> 65b4094 ([feat] Modified laura.txt file)
