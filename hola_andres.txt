@@ -1,1 +1,3 @@
 Este archivo es para realizar la practica sobre git.
+
+Agrgando cambios y actualizaciones. nueva linea.
