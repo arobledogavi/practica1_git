@@ -1,1 +1,2 @@
 Hola, me llamo Laura.
+Esta es la practica de GIT 	
